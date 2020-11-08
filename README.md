@@ -1,4 +1,5 @@
-# Optimal Transportation Homework
+# DelaunayaTriangulation
+
 
 This C++ project framework is used to implement algorithms on optimal transportation.
 
